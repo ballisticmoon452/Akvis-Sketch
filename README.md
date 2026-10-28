@@ -209,4 +209,4 @@ AKVIS Sketch is offered as a full free version, providing all features and updat
 Start your creative journey today with AKVIS Sketch! Download now and unleash your artistic potential!
 
 ---
-**Last updated:** 2026-10-27 23:21:53 UTC
+**Last updated:** 2026-10-28 03:07:28 UTC
